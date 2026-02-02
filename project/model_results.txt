@@ -1,0 +1,6 @@
+Detailed Model Results
+
+
+Logistic Regression
+Accuracy: 0.5415
+Classification Report:
