@@ -90,6 +90,7 @@ Twitter data is used for model training, while LinkedIn data serves as a validat
 | Random Forest      | 46.93%   |
 | XGBoost            | 47.65%   |
 | **BERT**           | **74.37%** |
+<img width="1000" height="600" alt="model_comparison" src="https://github.com/user-attachments/assets/edeebe8a-d7e4-4963-81f9-8f12d9c9570d" />
 
 ---
 
